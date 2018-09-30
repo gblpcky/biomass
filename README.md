@@ -3,7 +3,7 @@
 Biomass is a simple ddoser script, for Freeze a Servidor with a Pandora's Box. Enjoy :)
   
 
-![Alt text](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-attack/ntp-amplification-botnet-ddos-attack.png")
+![Alt text]("https://media.kasperskydaily.com/wp-content/uploads/sites/94/2018/03/02160305/memcached_spoofing-1.png")
 
 # Requirements.
 ```
