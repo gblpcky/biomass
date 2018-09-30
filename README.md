@@ -1,9 +1,8 @@
 # Biomass
 
 Biomass is a simple ddoser script, for Freeze a Servidor with a Pandora's Box. Enjoy :)
-  
 
-![Alt text]("https://2.bp.blogspot.com/-oVvWkVl1OhE/WCNbmJBocUI/AAAAAAAANZc/5PfN2EIJCy0hNnqb4GlAxqfvfM9ds_QAwCLcB/s1600/t50-ferramenta-pen-test-ddos.png")
+=======================================================================================|
 
 # Requirements.
 ```
