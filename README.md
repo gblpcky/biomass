@@ -22,15 +22,6 @@ perl biomass.pl
 # Overview 
 
 The Most Simple , Ddoser Tool - BIOMASS
-
-
-# Open Source 
-
-Redistribute and Modify without any restrictions :)
-
-If you encounter any problems regarding the code please open 
-a issue at our repository and we will try to fix it as 
-soon as possible . 
  
 
 # Creator
